@@ -5,11 +5,10 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Library\Library.fsproj" />
-    <ProjectReference Include="..\DerekBanas\DerekBanas.fsproj">
-      <Name>DerekBanas.fsproj</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FSharpTour.fs" />
+    <Compile Include="AnotherFile.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
