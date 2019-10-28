@@ -7,6 +7,7 @@
     <ProjectReference Include="..\Library\Library.fsproj" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lists.fs" />
     <Compile Include="FSharpTour.fs" />
     <Compile Include="AnotherFile.fs" />
     <Compile Include="Program.fs" />
