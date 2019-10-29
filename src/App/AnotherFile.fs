@@ -16,4 +16,3 @@ module PlayingAround =
     let tuple = (1, '2')
 
     Math.Abs(4) |> ignore
-e
