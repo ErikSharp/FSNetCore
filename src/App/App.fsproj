@@ -12,4 +12,7 @@
     <Compile Include="AnotherFile.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Windows.Forms" Version="4.0.0.0" />
+  </ItemGroup>
 </Project>
